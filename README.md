@@ -2,7 +2,7 @@
   Hi, Nice to meet you.
 </h1>
 <h3 align="center">
-  I am a Senior Game & Full Stack Developer.
+  I am a Senior Game Developer.
 </h3>
 
 <div align="center">
